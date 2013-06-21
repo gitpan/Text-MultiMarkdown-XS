@@ -1,0 +1,8 @@
+\w.o
+const-\w+.inc
+Makefile
+XS.c
+XS.bs
+.git
+blib
+.*~
